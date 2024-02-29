@@ -76,6 +76,9 @@ rm -r /path/to/your/directory
 activity 확인
 
 C:\Users\HP>adb shell dumpsys package com.ldjSxw.heBbQd | findstr -i activity
+
 Activity Resolver Table:
+
 e6f04 com.ldjSxw.heBbQd/.ScanActivity filter 7ca4cf5
+
 d10aced com.ldjSxw.heBbQd/.IntroActivity filter 6f9ea2c
