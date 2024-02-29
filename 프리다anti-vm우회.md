@@ -1,4 +1,6 @@
-# 
+### 프리다(Frida)는 다이나믹 인스트루멘테이션(dynamic instrumentation) 툴로, 실행 중인 애플리케이션에 코드를 삽입하여 그 동작을 변경하거나 추적할 수 있게 해주는 도구
+
+---
 
 ### 아키텍쳐 확인
 **adb shell getprop ro.product.cpu.abi**
