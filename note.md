@@ -73,6 +73,8 @@ com.ldjSxw.heBbQd
 
 rm -r /path/to/your/directory
 
+---
+
 activity 확인
 
 C:\Users\HP>adb shell dumpsys package com.ldjSxw.heBbQd | findstr -i activity
