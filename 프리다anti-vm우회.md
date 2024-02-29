@@ -24,7 +24,9 @@ https://github.com/frida/frida/releases
 권한주기
 
 C:\Users\HP\Downloads>**adb shell**
+
 vbox86p:/ # **su**
+
 vbox86p:/ # **chmod 755 /data/local/tmp/frida-server-16.2.1-android-x86**
 
 ---
