@@ -41,6 +41,7 @@ vbox86p:/ # **/data/local/tmp/frida-server-16.2.1-android-x86 &**
 연결 프로세스 확인
 
 C:\Users\HP>**frida-ps -U**
+
 PID  Name
 
 ...
