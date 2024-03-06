@@ -34,6 +34,7 @@ vbox86p:/ # **chmod 755 /data/local/tmp/frida-server-16.2.1-android-x86**
 실행
 
 vbox86p:/ # **/data/local/tmp/frida-server-16.2.1-android-x86 &**
+
 [1] 3293   //1은 작업번호 3293은 pid
 
 ---
